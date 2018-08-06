@@ -1,5 +1,5 @@
-# h1 Goblins
-# h2 Ancestry Feats
+# Goblins
+## Ancestry Feats
 
 At 1st level, you gain one ancestry feat, and you gain an additional ancestry feat every 4 levels thereafter (at 5th, 9th, 13, and 17th level). As a goblin, you choose from among the following ancestry feats.
 
